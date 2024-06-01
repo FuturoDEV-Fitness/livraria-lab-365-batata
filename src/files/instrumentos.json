@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "codigo": "bd123855-5a70-4b93-8e7c-7de00f268c4e",
+    "nome": "1",
+    "tipo": "1",
+    "estado": "1"
+  },
+  {
+    "codigo": "ecb31c9c-e086-4ffe-a89b-e316ce174771",
+    "nome": "2",
+    "tipo": "2",
+    "estado": "2"
+  },
+  {
+    "codigo": "e1ff778b-1406-4dda-b428-17489da99bf8",
+    "nome": "3",
+    "tipo": "3",
+    "estado": "3"
+  }
+]

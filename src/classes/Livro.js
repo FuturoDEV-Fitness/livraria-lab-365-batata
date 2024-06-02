@@ -1,14 +1,16 @@
+const crypto = require("crypto");
+
 class Livro {
 
     #codigo = '';
     #nome = '';
     #paginas = '';
     #autor = '';
-    #genero;
+    #genero = '';
 
 
     constructor(nome, autor, paginas) {
-       this.#codigo = Math.random();
+        this.#codigo = crypto.randomUUID()
        this.#nome = nome;
        this.#autor = autor;
        this.#paginas = paginas;

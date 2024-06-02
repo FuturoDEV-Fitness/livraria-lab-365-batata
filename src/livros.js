@@ -9,7 +9,7 @@ const rl = readline.createInterface({
 
 async function run() {
 
-    const resposta = await rl.question('Escolha uma ação (criar, deletar, alterar, consultar): ');
+    const resposta = await rl.question('Escolha uma ação (criar, deletar, consultar): ');
 
     switch (resposta) {
         case 'criar':
@@ -27,14 +27,15 @@ async function run() {
 
 
             rl.close();
-
-
-            /* Coloque sua resposta aqui */
             
 
             break;
         case 'deletar': {
-            /* Coloque sua resposta aqui - filter */
+            const palavra = await rl.question("Qual o nome do livro?");
+
+            const crud = new LivroCrud(palavra);
+            crud.deletar(palavra);
+
             rl.close();
             break;
         }
@@ -43,7 +44,7 @@ async function run() {
 
             const crud = new LivroCrud(palavra);
             crud.consultar(palavra);
-            /* Coloque sua resposta aqui */
+          
             rl.close();
             break;
         }

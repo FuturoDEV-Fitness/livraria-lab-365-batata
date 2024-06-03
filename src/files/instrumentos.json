@@ -1,20 +1,26 @@
 [
   {
-    "codigo": "bd123855-5a70-4b93-8e7c-7de00f268c4e",
-    "nome": "1",
-    "tipo": "1",
-    "estado": "1"
+    "codigo": "91cea8df-9377-479e-8eb0-879488f191b7",
+    "nome": "Guitarra",
+    "tipo": "Guitarra",
+    "estado": "Novo",
+    "preco": "500",
+    "ano_de_fabricacao": "2000"
   },
   {
-    "codigo": "ecb31c9c-e086-4ffe-a89b-e316ce174771",
-    "nome": "2",
-    "tipo": "2",
-    "estado": "2"
+    "codigo": "b544a1a6-e642-452c-81b5-52fa4e30ad38",
+    "nome": "Violão",
+    "tipo": "Violão",
+    "estado": "Usado",
+    "preco": "120",
+    "ano_de_fabricacao": "2018"
   },
   {
-    "codigo": "e1ff778b-1406-4dda-b428-17489da99bf8",
-    "nome": "3",
-    "tipo": "3",
-    "estado": "3"
+    "codigo": "242d3552-e102-4f4e-920a-24f18c2394d8",
+    "nome": "Piano",
+    "tipo": "Piano",
+    "estado": "Danificado ",
+    "preco": "15000",
+    "ano_de_fabricacao": "1975"
   }
 ]

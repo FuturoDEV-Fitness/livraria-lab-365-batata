@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "codigo": "2d426040-f55e-407b-be61-f692d4ed5b07",
+    "nome": "Hiédi",
+    "rg": "1233333",
+    "cpf": "5555555",
+    "dataNascimento": "15/07/1989"
+  },
+  {
+    "codigo": "0bfee93c-0fd4-4b89-acfb-33ec975cf06b",
+    "nome": "Aurora",
+    "rg": "1255555666",
+    "cpf": "6995252222",
+    "dataNascimento": "12/02/2018"
+  },
+  {
+    "codigo": "7f918d80-4b0e-4edf-a26e-668f54e38c95",
+    "nome": "Maria",
+    "rg": "1255555",
+    "cpf": "66555111",
+    "dataNascimento": "06/09/1964"
+  },
+  {
+    "codigo": "c92105ea-44b8-4228-b03f-32908bf7b324",
+    "nome": "José",
+    "rg": "123466899",
+    "cpf": "23655336552222",
+    "dataNascimento": "12/02/1960"
+  }
+]

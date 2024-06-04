@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "nome": "Anita Garibaldi",
+    "descricao": "Localizado dentro da BAFL",
+    "capacidade": "150",
+    "codigo": "7de54eb0-83ff-4caa-bcda-132ff8f78eb5"
+  },
+  {
+    "nome": "Jean Carlo",
+    "descricao": "teste maximo",
+    "capacidade": "170",
+    "codigo": "5eba9fc7-e38e-4937-b3aa-d51ae65bc87d"
+  },
+  {
+    "nome": "Teste",
+    "descricao": "teste",
+    "capacidade": "345",
+    "codigo": "14b7dbc2-832a-41f2-a6a7-1d7ac8d6be90"
+  },
+  {
+    "nome": "ALana testando",
+    "descricao": "aaaa",
+    "capacidade": "123",
+    "codigo": "f922c119-9c2b-442e-bbd0-f8875d0c934d"
+  }
+]
